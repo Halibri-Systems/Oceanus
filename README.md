@@ -1,2 +1,4 @@
-# oceanus.github.io
-Documentation and planning for the Oceanus plugin
+# Oceanus
+Documentation and plans for the Oceanus plugin!
+
+Coming soon courtesy of Halibri Systems...
